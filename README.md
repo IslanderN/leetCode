@@ -1,6 +1,7 @@
 # solved
 EASY: 
 02.04.23: 1929
+03.04.23: 2011
 
 # unsolved
 EASY: 
