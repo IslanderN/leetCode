@@ -11,7 +11,9 @@ EASY:
 28.05.23: 509(solved but read example on internet)
 
 # Lyft
+EASY:
+20
 MEDIUM:
-994, 155, 304, 238, 981, 365, 735
+994, 155, 304, 238, 981, 365, 735, 91, 426
 HARD:
 127, 76, 642, 716, 158
