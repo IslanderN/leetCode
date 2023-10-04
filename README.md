@@ -14,6 +14,9 @@ EASY:
 23.05.23: 703(solved but not using PriorityQueue but SortedSet)
 28.05.23: 509(solved but read example on internet)
 
+MEDIUM:
+04.10.23: 5
+
 # Lyft
 EASY:
 20
