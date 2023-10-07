@@ -15,7 +15,7 @@ EASY:
 28.05.23: 509(solved but read example on internet)
 
 MEDIUM:
-04.10.23: 5
+04.10.23: 5, 146
 
 # Lyft
 EASY:
